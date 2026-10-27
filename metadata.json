@@ -1,0 +1,6 @@
+{
+  "name": "Karmayogi Sankhyiki - AI Learning Platform for Indian Statistical System",
+  "description": "AI-enabled capacity building platform for India's Official Statistical System with competency gap analysis, iGOT Karmayogi course recommendations, and automated MCQ & quiz generation from learning materials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
